@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Regelwerk "Micro-Life"
 
 ## Recent changes
