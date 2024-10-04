@@ -1,9 +1,1 @@
-title: Microlife
 
-logo: profile.png # Use a relative path to logo image 
-
-description: A card game about pathogens, mutations and crushing your opponents immune system
-
-#layout: default
-
-theme: jekyll-theme-minimal 
