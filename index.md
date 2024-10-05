@@ -1,11 +1,6 @@
----
-layout: default
-title: Microlife
-logo: profile.png
-description: A card game about pathogens, mutations and crushing your opponents immune system
----
 
-# Regelwerk "Micro-Life"
+
+# Regelwerk
 
 ## Recent changes
 
